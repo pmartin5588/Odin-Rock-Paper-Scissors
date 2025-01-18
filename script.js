@@ -50,5 +50,5 @@ function getHumanChoice(){
 
 computerChoiceResult = getComputerChoice();
 console.log(computerChoiceResult);
-humanChoiceResult = getHumanChoice;
-console.log(humanChoiceResult());
+humanChoiceResult = getHumanChoice();
+console.log(humanChoiceResult);
